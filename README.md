@@ -1,6 +1,6 @@
-# maizuo
-
-## Project setup
+＃maizuo
+卖座电影
+##项目设置
 ```
 npm install
 ```
